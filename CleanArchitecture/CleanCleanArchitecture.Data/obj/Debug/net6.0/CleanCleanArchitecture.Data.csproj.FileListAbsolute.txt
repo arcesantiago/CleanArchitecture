@@ -1,0 +1,17 @@
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\bin\Debug\net6.0\CleanCleanArchitecture.Data.deps.json
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\bin\Debug\net6.0\CleanCleanArchitecture.Data.runtimeconfig.json
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\bin\Debug\net6.0\CleanCleanArchitecture.Data.dll
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\bin\Debug\net6.0\CleanCleanArchitecture.Data.pdb
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\obj\Debug\net6.0\CleanCleanArchitecture.Data.csproj.AssemblyReference.cache
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\obj\Debug\net6.0\CleanCleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\obj\Debug\net6.0\CleanCleanArchitecture.Data.AssemblyInfoInputs.cache
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\obj\Debug\net6.0\CleanCleanArchitecture.Data.AssemblyInfo.cs
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\obj\Debug\net6.0\CleanCleanArchitecture.Data.csproj.CoreCompileInputs.cache
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\obj\Debug\net6.0\CleanCleanArchitecture.Data.csproj.CopyComplete
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\obj\Debug\net6.0\CleanCleanArchitecture.Data.dll
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\obj\Debug\net6.0\refint\CleanCleanArchitecture.Data.dll
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\obj\Debug\net6.0\CleanCleanArchitecture.Data.pdb
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\obj\Debug\net6.0\CleanCleanArchitecture.Data.genruntimeconfig.cache
+C:\Users\saarce\source\repos\CleanArchitecture\CleanCleanArchitecture.Data\obj\Debug\net6.0\ref\CleanCleanArchitecture.Data.dll

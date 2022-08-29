@@ -1,0 +1,5 @@
+C:\Users\saarce\source\repos\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\saarce\source\repos\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saarce\source\repos\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\saarce\source\repos\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.AssemblyInfo.cs
+C:\Users\saarce\source\repos\CleanArchitecture\CleanArchitecture.ConsoleApp\obj\Debug\net6.0\CleanArchitecture.ConsoleApp.csproj.CoreCompileInputs.cache
